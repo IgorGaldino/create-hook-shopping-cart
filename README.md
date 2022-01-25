@@ -9,16 +9,16 @@ Esta aplicação possui 4 funcionalidades:
 
 ### Tecnologias utilizadas
 
-- React;
-- React Hooks;
-- Context API;
-- toastify;
-- localStorage API;
-- Typescript;
-- styled-components;
-- JSON Server;
-- axios;
-- yarn;
+- [React](https://pt-br.reactjs.org)
+- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [Context API](https://pt-br.reactjs.org/docs/context.html#api)
+- [JSON Server](https://github.com/typicode/json-server)
+- [toastify](https://github.com/fkhadra/react-toastify#readme)
+- [localStorage API](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage)
+- [Typescript](https://www.typescriptlang.org)
+- [styled-components](https://styled-components.com)
+- [axios](https://github.com/axios/axios)
+- [yarn](https://yarnpkg.com)
 
 ### Executando aplicação
 
